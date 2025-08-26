@@ -71,9 +71,9 @@ loans_def_detail_records_enq_df.write \
     .save()
 ```
 
-### Final Cleaned Datasets
+### Final Cleaned and Processed Datasets for future processing.
 
-![Final Cleaned Datasets](https://github.com/BakarAhmad/Lendingclubproject/blob/main/images/Screenshot%202025-08-23%20at%204.41.57%E2%80%AFPM.png)
+![Final Cleaned Datasets](https://raw.githubusercontent.com/BakarAhmad/Lendingclubproject/main/images/Screenshot%202025-08-23%20at%204.41.57%E2%80%AFPM.png)
 
 ## Database and Table Management
 
@@ -185,9 +185,10 @@ SELECT member_id FROM (
 3. Share with upstream teams for correction
 4. Create clean datasets excluding bad data
 
-### Scoring Configuration
+<!-- ### Scoring Configuration -->
 
-![Scoring Configuration](YOUR_IMAGE_LINK_HERE)
+![Scoring Configuration](https://raw.githubusercontent.com/BakarAhmad/Lendingclubproject/main/images/Screenshot%202025-08-23%20at%205.44.17%E2%80%AFPM.png)
+)
 
 ```python
 # Configure scoring thresholds
