@@ -73,7 +73,7 @@ loans_def_detail_records_enq_df.write \
 
 ### Final Cleaned Datasets
 
-![Final Cleaned Datasets](YOUR_IMAGE_LINK_HERE)
+![Final Cleaned Datasets](https://github.com/BakarAhmad/Lendingclubproject/blob/main/images/Screenshot%202025-08-23%20at%204.41.57%E2%80%AFPM.png)
 
 ## Database and Table Management
 
